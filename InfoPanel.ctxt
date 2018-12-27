@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InfoPanel
+comment1.params=pane
+comment1.target=InfoPanel(javax.swing.JTabbedPane)
+comment1.text=\ InfoPanel\ constructor\n\ no\ parameters\n
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

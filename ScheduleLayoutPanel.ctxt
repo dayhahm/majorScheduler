@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ScheduleLayoutPanel
+comment1.params=pane\ ms
+comment1.target=ScheduleLayoutPanel(javax.swing.JTabbedPane,\ Schedule)
+comment1.text=\n\ ScheduleLayoutPanel\ Constructor\n\ no\ parameters\n
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ mouseClicked(java.awt.event.MouseEvent)
+numComments=4
