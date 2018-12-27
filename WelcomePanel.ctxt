@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WelcomePanel
+comment1.params=pane
+comment1.target=WelcomePanel(javax.swing.JTabbedPane)
+comment1.text=\ WelcomePanel\ constructor\n\ no\ parameters\n
+comment2.params=tabPlacement\ horizRunCount\ maxTabHeight
+comment2.target=int\ calculateTabAreaHeight(int,\ int,\ int)
+comment3.params=g\ tabPlacement\ rects\ tabIndex\ iconRect\ textRect
+comment3.target=void\ paintTab(java.awt.Graphics,\ int,\ java.awt.Rectangle[],\ int,\ java.awt.Rectangle,\ java.awt.Rectangle)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5
